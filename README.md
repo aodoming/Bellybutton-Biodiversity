@@ -1,6 +1,4 @@
-####  Bellybutton-Biodiversity_ADominguez
-
-Data Visualization in JavaScript
+#### Data Visualization in JavaScript
 
 ##### Goal
 The goal of this project is to create Data Visualization for the web. 
