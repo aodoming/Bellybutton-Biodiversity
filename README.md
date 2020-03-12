@@ -15,5 +15,5 @@ as well as deploying a polished data visualization to the web is all possible th
 
 ### Results
 
-<img align="center" width="600" src="/pic/bubble.png"<br/>
+<img align="center" width="600" src="/pic/bubble.png"><br/>
 <img align="center width="600" src="/pic/Plotly_Dashboard.png"><br/>
