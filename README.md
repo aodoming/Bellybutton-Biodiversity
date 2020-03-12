@@ -15,6 +15,8 @@ as well as deploying a polished data visualization to the web is all possible th
 
 ### Results
 
-<img align="center" width="800" src="/pic/bubble.png"><br/><br/><br/>
+* Bubble Chart of Top Ten Colonies
+
+<img align="center" width="800" src="/pic/bubble.png"><br/><br/><br/><br/>
 
 <img align="center" width="800" src="/pic/Plotly_Dashboard.png"><br/>
