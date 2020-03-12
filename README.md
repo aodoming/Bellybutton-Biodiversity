@@ -15,5 +15,5 @@ as well as deploying a polished data visualization to the web is all possible th
 
 ### Results
 
-<img align="left" width="200" src="https://github.com/aodoming/Bellybutton-Biodiversity_ADominguez/tree/master/pic"><br/>
+<img align="left" width="200" src="/pic/bubble.png"><br/>
 <img align="right" width="200" src="/pics/satellite.png"><br/>
