@@ -22,3 +22,6 @@ as well as deploying a polished data visualization to the web is all possible th
 * Plotly Dashboard
 
 <img align="center" width="800" src="/pic/Plotly_Dashboard.png"><br/>
+
+### Live Demo
+Watch a ![Live Demo]("https://aodoming.github.io/Bellybutton_Biodiversity_deploy/")here
