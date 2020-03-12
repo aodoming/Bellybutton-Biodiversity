@@ -2,7 +2,7 @@
 The goal of this project is to create Data Visualization for the web using JavaScript. 
 Visualizing data is used in order to communicate findings to an audience. 
 
-### Situation/Task:
+### Situation/Task
 Will be testing a hypothesis that states that the ideal bacteria species to make synthetic beef may be found in the human bellybutton.
 To test the hypothesis, data has been collected on individuals across the nation who have been sampled for naval bacteria species.
 Each person’s identity is anonymous, they have been instead assigned an ID number. 
