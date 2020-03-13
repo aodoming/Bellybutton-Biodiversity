@@ -32,7 +32,7 @@ as well as deploying a polished data visualization to the web is all possible th
 * Adding Interactivity to a Data Visualization.
 * Deploying Interactive Chart to GitHub Pages.
 
-### SOFTWARE/SKILLS USED
+### SOFTWARE/TOOLS
 Plotly.js, HTML, JavaScript, D3.json
 
 ### LIVE DEMO
