@@ -19,7 +19,7 @@ as well as deploying a polished data visualization to the web is all possible th
 
 <img align="center" width="800" src="/pic/bubble.png"><br/><br/><br/><br/>
 
-* Plotly Dashboard
+* Plotly 
 
 <img align="center" width="800" src="/pic/Plotly_Dashboard.png"><br/>
 
